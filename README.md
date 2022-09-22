@@ -1,4 +1,4 @@
-### Hello, World!I am Maycon 🤠
+### Hello, World! I am Maycon 🤠.
 
 <div align="center">
   <a href="https://github.com/m4yconn">
@@ -10,7 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img height="150" align="right" src="https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-2.jpeg" alt="">
+  <img height="150" align="right" src="https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-2.jpeg" alt="">
 </div> 
   
   ##
