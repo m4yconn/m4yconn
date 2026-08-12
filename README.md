@@ -1,4 +1,4 @@
-### 👩🏻‍💻 Maycon Santos
+## 👩🏻‍💻 Maycon Santos
 
 
 **`FullStack Developer`**
@@ -10,11 +10,12 @@ Técnico em Desenvolvimento de Sistemas pelo Instituto Federal de Alagoas (IFAL)
 
 ### 🤖 Languages ​​and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,next,react,express,mongodb)](https://skillicons.dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,next,react,express,mongodb)](https://skillicons.dev"/>
+</p>
 
 ### 📊 Stats
 
 <p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4yconn&show_icons=true&theme=tokyonight"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4yconn&show_icons=true&theme=tokyonight" width="60%"/>
 </p>
-
